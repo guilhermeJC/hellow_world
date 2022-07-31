@@ -5,3 +5,6 @@ learning github features
 
 **aprendendo mais e mais**
 > não sei o que é isso
+> mas parece que funciona assim
+
+--- essa, de fato não sei o que é
