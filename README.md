@@ -8,3 +8,4 @@ learning github features
 > mas parece que funciona assim
 
 --- essa, de fato não sei o que é
+https://github.com/cli/cli/blob/trunk/docs/install_linux.md
